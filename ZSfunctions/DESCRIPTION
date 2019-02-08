@@ -1,0 +1,10 @@
+Package: ZSfunctions
+Type: Package
+Title: An asset library uner construction
+Version: 0.1.0
+Author: Lakshay Suri
+Maintainer: The package maintainer <lakshay.suri@zs.com>
+Description: In a short span this package would provide analytical and automation capabilities.
+Encoding: UTF-8
+Imports: data.table
+LazyData: true
