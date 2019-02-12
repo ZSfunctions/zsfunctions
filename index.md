@@ -3,19 +3,13 @@ title: "Progress_Update"
 author: "Lakshay Suri"
 output: html_document
 ---
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 
 This function takes file location and status as input and updates the progress log for the same by adding time stamp. 
 
 ##Installation
 
-```{r }
-#install_github('surilakshay/zsfunctions/ZSfunctions')
-#library(ZSfunctions)
-```
+
 
 ## Features
 
